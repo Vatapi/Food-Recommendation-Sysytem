@@ -15,3 +15,5 @@ for y in response['hits']:
         print(x['text'] + " and the right amount is " + str(x['weight']))
     print()
     i = i+1
+
+print("hello")
